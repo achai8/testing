@@ -1,5 +1,5 @@
 from mymean import mean
-
+#trigger
 def test_mean():
     assert mean([1]) == 1
 
